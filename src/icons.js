@@ -1,0 +1,3 @@
+GoSearch;
+MdSettings;
+TiWeatherPartlySunny;
